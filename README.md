@@ -2,4 +2,4 @@ Graphical user interface for the tts interface from openai. Text can be converte
 An api key is required for conversion. this can be obtained with an account at openai. Furthermore, credit must be added to the account. The program displays the costs for the conversion. 
 To save the settings, the program creates a config.json file
 
-Translated with DeepL.com (free version)
+![screenshot](https://github.com/[ole-htw]/[tts-api-gui]/blob/[main]/screenshot.png?raw=true)
